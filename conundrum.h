@@ -1,0 +1,3 @@
+struct conundrum {
+	int x;
+};
